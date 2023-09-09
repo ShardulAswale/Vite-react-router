@@ -2,10 +2,6 @@
     <h2>⚜️ V I T E &nbsp; D E P L O Y ⚜️</h2>
 </div>
 
-<div align="center">
-    <a href="https://youtu.be/uEEj2c3_ydg">youtube video</a>
-</div>
-
 <br />
 
 ### Follow the steps below on how to deploy a vite react app with router:
